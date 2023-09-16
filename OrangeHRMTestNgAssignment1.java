@@ -19,7 +19,7 @@ import org.testng.annotations.AfterClass;
 public class OrangeHRMTestNgAssignment1{
 	WebDriver driver;
 	
-
+//test
 	@Test
 	public void loginNT() throws InterruptedException {
 		System.out.println("I am inside LoginNT");
